@@ -68,6 +68,9 @@ https://github.com/apu52/HotstarClone/assets/114172928/0e0cf7e7-5509-4170-9a3a-a
 
 <h4 align="center">Connect Project Admin </h4>
 <h5>Arpan Chowdhury</h5>
+
+![WhatsApp Image 2023-07-10 at 00 26 16](https://github.com/apu52/HotstarClone/assets/114172928/97b35cca-04cd-40ee-9f6d-05529e922c79)
+
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/arpan-chowdhury-775294251/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/ArpanCh40193288"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -75,6 +78,8 @@ https://github.com/apu52/HotstarClone/assets/114172928/0e0cf7e7-5509-4170-9a3a-a
   
 <h4 align="center">Connect Project Collaborator </h4>
 <h5>Shuvadipta Das</h5>
+
+![WhatsApp Image 2023-07-10 at 00 20 33](https://github.com/apu52/HotstarClone/assets/114172928/d550ec6b-54a3-4fa4-af1f-330ce5208b17)
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/shuvadipta-das-915b28216/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 <a target="_blank"href="https://github.com/5h0ov"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
