@@ -79,7 +79,8 @@ https://github.com/apu52/HotstarClone/assets/114172928/0e0cf7e7-5509-4170-9a3a-a
 <h4 align="center">Connect Project Collaborator </h4>
 <h5>Shuvadipta Das</h5>
 
-![WhatsApp Image 2023-07-10 at 00 20 33](https://github.com/apu52/HotstarClone/assets/114172928/d550ec6b-54a3-4fa4-af1f-330ce5208b17)
+![yezbxO9](https://github.com/apu52/HotstarClone/assets/83227649/75cd63a4-9d19-44cc-8a9b-950502fcf84a)
+
 <p align="center">
   <a target="_blank"href="https://www.linkedin.com/in/shuvadipta-das-915b28216/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;  
 <a target="_blank"href="https://github.com/5h0ov"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
