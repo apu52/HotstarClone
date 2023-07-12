@@ -114,3 +114,12 @@ cardcontainers.forEach((item, i) => {
     item.scrollLeft -= containerWidth + 200;
   });
 });
+
+// Functionality to move to login page
+
+const loginLink = document.querySelector(".login-link");
+loginLink.addEventListener("click", () => {
+  window.location.href = "login.html";
+});
+
+
